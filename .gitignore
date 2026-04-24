@@ -8,3 +8,10 @@
 *.dSYM
 tags
 compile_commands.json
+
+# wyvrnpm-generated — do not commit
+/build/
+/wyvrn_internal/
+/wyvrn.lock
+/CMakePresets.json
+/CMakeUserPresets.json
